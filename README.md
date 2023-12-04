@@ -1,1 +1,3 @@
-# project-repo
+# My project
+
+Some descriptions
