@@ -1,3 +1,3 @@
 # My project
 
-Some descriptions
+Some description.
